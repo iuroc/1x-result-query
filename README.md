@@ -5,12 +5,5 @@
 ## 使用方式
 
 ```bash
-npm install 1x-result-query
-```
-
-```ts
-import { run } from "1x-result-query";
-
-const zkzDir = "准考证目录";
-run(zkzDir);
+npx 1x-result-query 准考证目录
 ```
