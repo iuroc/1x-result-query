@@ -1,4 +1,6 @@
 {
+	"name": "1x-result-query",
+	"version": "v1.0.0",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.mjs",
 	"types": "./dist/index.d.cts",
