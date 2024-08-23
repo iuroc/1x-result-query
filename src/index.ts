@@ -1,4 +1,4 @@
-import './polyfill.js'
+import '@ungap/with-resolvers'
 import { readdirSync } from 'fs'
 import PQueue from 'p-queue'
 import { join } from 'path'
