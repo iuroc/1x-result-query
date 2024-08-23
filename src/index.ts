@@ -1,3 +1,4 @@
+import './polyfill.js'
 import { readdirSync } from 'fs'
 import PQueue from 'p-queue'
 import { join } from 'path'
